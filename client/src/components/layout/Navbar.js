@@ -16,7 +16,7 @@ export const Navbar = () => {
           <Link to="/register">Register</Link>
         </li>
         <li>
-          <Link href="/login">Login</Link>
+          <Link to="/login">Login</Link>
         </li>
       </ul>
     </nav>
